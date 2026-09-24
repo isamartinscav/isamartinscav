@@ -96,6 +96,6 @@ Conheça meus projetos, experiências e trajetória profissional:
 
 ## 📫 Onde me encontrar
 
-- 💼 [LinkedIn](www.linkedin.com/in/isabellemartinscavalcante)
+- 💼 [LinkedIn](https://www.linkedin.com/in/isabellemartinscavalcante)
 - 💻 [GitHub](https://github.com/isamartinscav)
 - 🌐 [Portfólio](https://isamartinscav.github.io/portfolio/)
