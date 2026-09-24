@@ -1,59 +1,101 @@
-# Olá! Eu sou a Isabelle 
+# Olá! Eu sou a Isabelle 👋
 
-🎓 Estudante de tecnologia, com foco em **Dados** e interesse em transformar informações em análises e soluções para problemas reais.
+🎓 Estudante de **Sistemas de Informação na Universidade Federal de Uberlândia (UFU)**  
+📊 Foco profissional em **Dados**  
+💻 Interesse em **Análise de Dados, Python, SQL e Tecnologia**
 
-Atualmente estou aprofundando meus conhecimentos em **Python, SQL, bancos de dados e análise de dados**, além de estudar Java e Programação Orientada a Objetos para fortalecer minha base em desenvolvimento e lógica de programação.
+Atualmente estou aprofundando meus conhecimentos em **Python, SQL, bancos de dados, análise e visualização de dados**. Também estudo Java e Programação Orientada a Objetos para fortalecer minha base em desenvolvimento e lógica de programação.
+
+---
 
 ## 📊 Foco profissional
 
-Meu principal objetivo é construir minha carreira na **área de Dados**, desenvolvendo conhecimentos em:
+Meu objetivo é construir minha carreira na **área de Dados**, desenvolvendo conhecimentos em:
 
-* 📊 Análise de dados
-* 🐍 Python
-* 🗄️ SQL e bancos de dados
-* 📈 Visualização e interpretação de dados
-* 🧠 Lógica e resolução de problemas
-* 🔍 Exploração e organização de informações
+- Análise de dados
+- Python para dados
+- SQL e bancos de dados
+- Visualização e interpretação de dados
+- Estatística aplicada
+- Lógica e resolução de problemas
+
+---
 
 ## 💻 Tecnologias e conhecimentos
 
-* 🐍 Python
-* 🗄️ SQL / MySQL
-* ☕ Java
-* 🧩 Programação Orientada a Objetos
-* 🔗 JDBC
-* 🔧 Git e GitHub
-* 🔌 ESP32 e MicroPython
+### Dados
+- Python
+- SQL
+- MySQL
+- Análise de dados
+- Visualização de dados
+
+### Desenvolvimento
+- Java
+- Programação Orientada a Objetos
+- JDBC
+- JavaScript
+- HTML e CSS
+
+### Ferramentas
+- Git
+- GitHub
+- VS Code
+- NetBeans
+
+### Outros
+- ESP32
+- MicroPython
+
+---
 
 ## 🚀 Projetos
 
 ### 🛒 SmartMarket
 
-Sistema desenvolvido em Java e MySQL para planejamento e gerenciamento de compras, trabalhando com consumo, estoque, preços e planejamento de produtos.
+Sistema desenvolvido em **Java e MySQL** para planejamento e gerenciamento de compras, envolvendo consumo, estoque, preços e planejamento de produtos.
+
+🔗 [Ver projeto no GitHub](https://github.com/isamartinscav/SmartMarket)
+
+---
 
 ### 📚 Stack4U
 
-Projeto de uma rede social voltada para estudantes de tecnologia, com foco em interação, compartilhamento de conhecimento, fóruns e mentoria entre estudantes.
+Plataforma web voltada para estudantes de tecnologia, com recursos para interação, compartilhamento de conhecimento, fóruns e colaboração acadêmica.
+
+🔗 [Ver projeto no GitHub](https://github.com/isamartinscav/Stack4U)
+
+---
 
 ### ❤️ Sistema de Monitoramento com ESP32
 
-Projeto de Iniciação Científica utilizando ESP32, MPU6050 e AD8232, voltado ao desenvolvimento e estudo de um sistema vestível de monitoramento.
+Projeto de **Iniciação Científica** utilizando ESP32, MPU6050 e AD8232, voltado ao desenvolvimento e estudo de um sistema vestível de monitoramento.
+
+🔗 [Ver projeto no GitHub](https://github.com/isamartinscav/Sistema-Monitoramento-ESP32)
+
+---
 
 ## 📚 Atualmente estudando
 
-* Python para Dados
-* SQL e bancos de dados
-* Análise e visualização de dados
-* Estatística aplicada a dados
-* Java e Programação Orientada a Objetos
-* Git e GitHub
+- Python para Dados
+- SQL e bancos de dados
+- Análise e visualização de dados
+- Estatística aplicada a dados
+- Java e Programação Orientada a Objetos
+- Git e GitHub
 
-## 🎯 Objetivo
+---
 
-Estou construindo minha trajetória na área de **Dados** por meio de estudos e projetos práticos, buscando desenvolver minhas habilidades em análise, programação e resolução de problemas e, futuramente, atuar profissionalmente na área.
+## 🌐 Portfólio
+
+Conheça meus projetos, experiências e trajetória profissional:
+
+**[Acessar meu portfólio](https://isamartinscav.github.io/portfolio/)**
+
+---
 
 ## 📫 Onde me encontrar
 
-* 💻 [GitHub](https://github.com/isamartinscav)
-* 💼 LinkedIn — linkedin.com/in/isabelle-cavalcante-02818527b
-* 🌐 [Acesse meu portfólio](https://isamartinscav.github.io/portfolio/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/isabelle-cavalcante-02818527b)
+- 💻 [GitHub](https://github.com/isamartinscav)
+- 🌐 [Portfólio](https://isamartinscav.github.io/portfolio/)
