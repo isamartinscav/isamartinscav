@@ -56,3 +56,4 @@ Estou construindo minha trajetória na área de **Dados** por meio de estudos e 
 
 * 💻 [GitHub](https://github.com/isamartinscav)
 * 💼 LinkedIn — linkedin.com/in/isabelle-cavalcante-02818527b
+* 🌐 [Acesse meu portfólio](https://isamartinscav.github.io/portfolio/)
